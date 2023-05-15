@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f35816248e3fa64db8ee6274d5476cf, type: 3}
   m_Name: SolRotacion
   m_EditorClassIdentifier: 
-  velocidad: 0.5
+  velocidad: 5
